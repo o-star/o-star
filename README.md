@@ -18,6 +18,6 @@
 <br/>
 <br/>
 <p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=o-star&theme=radical' width='300px' height='150px'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=o-star&theme=radical' width='300px' height='130px'/>  
     <img src='http://mazassumnida.wtf/api/generate_badge?boj=uh04049' width='300px' height='130px'/>
 </p>
