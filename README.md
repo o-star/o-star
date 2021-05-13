@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<h3 align='center'>Ostar</h3>
+<h3 align='center'>🤜 Ostar 🤛</h3>
 <p align='center'>
     <a href='https://ostarblog.netlify.app/'>
         <img src='https://img.shields.io/badge/Tech%20Blog-1E821E?style=flat-square&logo=Bloglovin&logoColor=white&link=https://ostarblog.netlify.app/'/>
@@ -18,6 +18,6 @@
 <br/>
 <br/>
 <p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=o-star&theme=radical' width='300px' height='140px'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=o-star&theme=radical' width='300px' height='150px'/>
     <img src='http://mazassumnida.wtf/api/generate_badge?boj=uh04049' width='300px' height='130px'/>
 </p>
