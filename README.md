@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<p align='center'><h2>Ostar</h2></p>
+<h3 align='center'>Ostar</h3>
 <p align='center'>
     <img src='https://img.shields.io/badge/Tech%20Blog-1E821E?style=flat-square&logo=Bloglovin&logoColor=white&link=https://ostarblog.netlify.app/'/>
     <img src='https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_star.1/'/>
@@ -12,8 +12,6 @@
 <br/>
 <br/>
 <p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=o-star&theme=radical'/>
-</p>
-<p align='center'>
-    <img src='http://mazassumnida.wtf/api/generate_badge?boj=uh04049'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=o-star&theme=radical' width='300px'/>
+    <img src='http://mazassumnida.wtf/api/generate_badge?boj=uh04049' width='300px'/>
 </p>
