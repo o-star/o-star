@@ -2,7 +2,7 @@
 
 <br/>
 
-<h3 align='center'>🤜 Ostar 🤛</h3>
+<h2 align='center'>🤜 Ostar 🤛</h2>
 <p align='center'>
     <a href='https://ostarblog.netlify.app/'>
         <img src='https://img.shields.io/badge/Tech%20Blog-1E821E?style=flat-square&logo=Bloglovin&logoColor=white&link=https://ostarblog.netlify.app/'/>
@@ -14,8 +14,13 @@
         <img src='https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ostarstudyroom/O-star-StudyRoom-b08350f637df436c9d48238c2572e0fa'/>
     </a>
 </p>
+
 <br/>
 <br/>
+
 <p align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=o-star&theme=radical'/>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
